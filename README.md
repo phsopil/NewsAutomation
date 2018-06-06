@@ -7,5 +7,5 @@ Description:
       
 Author:
 
-      _fasil_minale_
-      _ate_9774_08_
+      æfasil_æminale
+      ate_æ9774æ_08
