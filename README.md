@@ -2,7 +2,7 @@
 
 Description:
 
-      java project that parse news and insert it into alocal website using selenium.
+      a java project that parse news and insert it into alocal website using selenium.
       
       
 Author:
